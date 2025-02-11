@@ -1,0 +1,3 @@
+Crie um gráfico de barras para representar as vendas de um produto durante uma semana.
+Dados: dias = ['Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta'] e vendas = [30, 45, 60, 35, 50].
+Adicione rótulos de título e eixos, e customize as cores das barras.
